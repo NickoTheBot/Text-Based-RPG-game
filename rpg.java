@@ -1,3 +1,4 @@
+//Created by Anselmo (Nicko) Arellano. Posted on 2/28/2022
 import java.util.Scanner;
 import java.util.Random;
 
